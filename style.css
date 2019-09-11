@@ -1,0 +1,20 @@
+body {
+	background-color: green;
+}
+h1 {
+    color: red;
+}
+h2 {	
+	color: blue;
+	font-size: 2em;
+}
+ul {	
+	color: white;
+	font-size: 1.25em;
+}
+ol {
+	color: white;
+}
+img {
+	width: 650px;
+}
